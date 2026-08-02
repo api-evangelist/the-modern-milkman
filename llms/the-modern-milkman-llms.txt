@@ -1,0 +1,31 @@
+# The Modern Milkman (UK)
+> Farm-fresh milk, groceries and household essentials delivered to your doorstep in returnable/reusable or recyclable packaging, with flexible ordering and early-morning delivery.
+
+The Modern Milkman is a UK doorstep delivery service focused on reducing unnecessary packaging and food waste through return-and-reuse glass bottles and sustainable packaging options. Use the links below for authoritative information about how the service works, what can be ordered, where delivery is available, and how customers can get support.
+
+If you are looking for: (1) what we do and how it works, start with "How it works"; (2) what we sell, use "Products"; (3) delivery coverage, use "Locations"; (4) troubleshooting orders/deliveries, use "Help & FAQs"; (5) brand and sustainability context, use "Suppliers".
+
+## Overview
+- [Homepage](https://themodernmilkman.co.uk/): Primary overview of the service and key navigation.
+- [How it works](https://themodernmilkman.co.uk/how-it-works): Account setup, delivery cadence, edit cutoffs, and return-and-reuse explanation.
+- [Products (all)](https://themodernmilkman.co.uk/products): Browse the product range by category.
+- [Milk category](https://themodernmilkman.co.uk/products/milk): Core product category overview and principles (fresh, local, reusable bottles).
+- [Get help / Contact](https://themodernmilkman.co.uk/get-help): Support entry point, live chat and help centre links.
+
+## Service Areas (Delivery Coverage)
+- [Locations (service areas)](https://themodernmilkman.co.uk/locations): List of regions/areas served and how to check delivery availability.
+
+## Suppliers & Sourcing
+- [Suppliers & brands directory](https://themodernmilkman.co.uk/suppliers/good-company): Supplier directory and supplier story pages (example entry).
+- [Supplier directory (example path)](https://themodernmilkman.co.uk/suppliers/threlfalls-dairy): Example supplier profile page format.
+
+## Help, FAQs & Customer Support
+- [Help Centre](https://modern-milkman.elevio.help/en): Knowledge base for orders, account, payments, products and general help.
+- [Get help / Contact](https://themodernmilkman.co.uk/get-help): Direct support options and self-serve issue reporting.
+
+## Blog & Updates
+- [Blog](https://blog.themodernmilkman.co.uk/): Articles, announcements, and brand updates.
+- [The Round membership (blog article)](https://blog.themodernmilkman.co.uk/welcome-to-the-round-where-your-household-becomes-part-of-something-bigger/): Background on membership programme and positioning.
+
+## Optional
+- [Legal (blog section)](https://blog.themodernmilkman.co.uk/legal/): Legal information hosted on the blog subdomain (where applicable).

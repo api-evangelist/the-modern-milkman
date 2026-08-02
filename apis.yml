@@ -1,8 +1,27 @@
 aid: the-modern-milkman
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/the-modern-milkman.png
 name: The Modern Milkman
-description: 'The Modern Milkman is a company surfaced as a portfolio company of insight-partners and
-  added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'The Modern Milkman is a UK doorstep delivery service that brings farm-fresh
+  milk, groceries and household essentials to customers in returnable and reusable
+  glass bottles or recyclable packaging, with flexible ordering and early-morning
+  delivery. Founded to modernise the traditional milkround, the company focuses on
+  reducing food waste and single-use plastic through a return-and-reuse model, local
+  sourcing, and a subscription-style ordering experience delivered through its website
+  and mobile apps. It was surfaced as a portfolio company of Insight Partners and added
+  to the API Evangelist network for enrichment. The company publishes no public developer
+  API, but does maintain an llms.txt for AI agents, a customer help centre, and a blog.
+  Sector: consumer / direct-to-consumer grocery delivery.'
 url: https://raw.githubusercontent.com/api-evangelist/the-modern-milkman/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +31,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Consumer
+- Grocery Delivery
+- Direct to Consumer
+- Sustainability
+- Subscription
+- United Kingdom
+- Food and Beverage
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,20 @@ maintainers:
 common:
 - type: Website
   url: https://themodernmilkman.co.uk/
+- type: Blog
+  url: https://blog.themodernmilkman.co.uk/
+- type: Support
+  url: https://modern-milkman.elevio.help/en
+- type: TermsOfService
+  url: https://blog.themodernmilkman.co.uk/legal/
+- type: PrivacyPolicy
+  url: https://blog.themodernmilkman.co.uk/legal/
+- type: LLMsTxt
+  url: llms/the-modern-milkman-llms.txt
+- type: DomainSecurity
+  url: security/the-modern-milkman-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
